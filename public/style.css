@@ -1,0 +1,323 @@
+/* .nav{
+    display:flex;
+    list-style:none;
+}
+.nav-Item{
+    display:flex;
+    justify-content: center;
+    align-items:center;pwd
+
+
+}
+
+.nav-Item > li{
+    padding:10px;
+}
+.Image{
+    width:60px;
+} */
+
+/* 2nd project jo tha 
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin:0;
+    background-color: black;
+}
+.image{
+    height:28.93px;
+    width:28.93px;
+    color:#00D8FF;
+    margin:10px;
+}
+h1{
+    color:#00D8FF;
+    width:122.39px;
+    height:22.25px;
+   
+    
+}
+.MainHeading{
+    display:inline;
+    color:whitesmoke;
+    align-content: center;
+    margin-left: 25px;
+}
+nav > h4{
+    color:#DEEBF8;
+    width:259px;
+    height:21px;
+    margin-left:189px;  
+    size:30px
+}
+.container{
+
+}
+.list{
+    
+    text-decoration: #DEEBF8;
+    color:white;
+    padding-top: 5px;
+}
+.nav{
+    display:flex;
+    background-color: #21222A;
+    width:550px;
+    height:91px;
+    align-items:center;
+    padding:30px 20px;
+}
+nav > h2{
+    color:#00D8FF;
+
+}
+ul > li{
+    padding-top: 15px;
+    letter-spacing: .05em;
+}
+.list > li::marker{
+    color:#00D8FF;
+    font-size:28px;
+} */
+
+/* 
+*{
+    box-sizing: border-box;
+}
+#on{
+    padding: 10px ;
+}
+#onw{
+    padding: 10px ;
+}
+#one{
+    padding: 10px ;
+}
+.footer-items{
+    align-items: center;
+    
+}
+.icon{
+    background-color: azure;
+    
+}
+#button{
+    height:25px;
+    width:5px;
+    display:inline-flex;
+    padding-left:43%;
+    
+    
+}
+body{
+    margin:0;
+    background-color: black;
+}
+#img{
+    image-orientation: from-image;
+}
+#data{
+    font-size:xx-small;
+}
+.para{
+    color:white;
+    text-decoration: solid;
+}
+.info{
+    text-align:center;
+    color:white;
+}
+.footer-items{
+    display:inline-flex;
+    align-items: center;
+    padding-left:20px;
+}
+.Habout{
+    color:white;
+    font-style: italic;
+
+} 
+ 2d project styling
+*{
+    box-sizing: border-box;
+}
+body{
+    
+    font-family:'Poppins'
+}
+
+*{
+    box-sizing: border-box;
+}
+.img{
+   padding:40px;
+  align-self:center;
+    height:400px;
+    width:90%;
+}
+h1{
+    padding-left: 10px;
+}
+p{
+    padding-left: 10px;;
+}
+nav{
+    height:70px;
+    display:flex;
+    padding:20px 30px;
+    box-shadow: 0px 3px 7px rgba(0,0,0,0.1);
+}
+#logo{
+   background-color: aquamarine;
+    height:30px;
+    display:flex;
+}
+.hero{
+    display:flex;
+    flex-direction: column;
+}
+.nav-logo{
+    max-width:100px;
+}
+.img{
+    max-width:100px;
+    align-self:center;
+}
+
+
+.section{
+    padding-left: 10px;
+    margin: 10px;
+}
+.bold{
+    font-weight:bold
+}
+.grey{
+    color:gray
+}
+.star{
+    max-width:10px;
+    align-self:center
+}
+.card{
+    padding:10px 10px;
+    border-radius: 8px;
+    display: flex;
+    width:170px;
+    font-size:12px;
+   flex-direction: column;
+    border-radius:10px;
+   background-color: bisque;
+   position: relative;
+}
+
+.Card-image{
+    width:100%;
+    border-radius:9px;
+
+}
+
+.stats{
+    display:flex;
+    align-items: center;
+}
+.cards-list{
+    display: flex;
+    flex-wrap:nowrap ;
+    gap:20px;
+    overflow-x: auto;
+}
+.card-badge{
+    position:absolute;
+    top:6px;
+     background-color: white;
+     padding:5px 7px;
+     border-radius: 2px;
+     font-weight: bold;
+
+     3rd project styling
+}*/
+
+.money_img{
+    height: 260px;
+    width:40%;
+    align-self: center;
+    padding: 10px 450px;
+    
+}
+.datta{
+ padding:0px 40px;
+}
+.meme_image{
+    max-width: 35px;
+    padding-left: 30px;
+    padding-right: 10px;
+    max-height: 20px;
+}
+.header-title{
+    font-size: 20px;
+    margin-right: auto;
+}
+.Headding{
+    background-color:blueviolet;
+    display:flex;
+    align-items: center;
+    color:white;
+    height:80%;
+    
+}
+main{
+    padding: 20px;
+}
+.comp{
+    border-radius: 2px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.form{
+    display:grid;
+    grid-template: 40px 40px / 1fr 1fr;
+    gap:10px
+
+}
+.form-button{
+    background-color: rgb(86, 9, 158);
+    
+    font-weight: bold;
+    color:white;
+    grid-column: 1 /-1;
+    border-radius: 5px;
+    border:none;
+    cursor:pointer;
+    
+}
+
+.card--image{
+    align-items: center;
+    padding:10px 30%;
+   
+}
+.card-favorite{
+    height:20px;
+    width:20px;
+    padding:20px 30px;
+}
+.card{
+    background-color: bisque;
+    max-width: 500px;
+}
+
+*{
+    box-sizing:border-box;
+}
+
+.box{
+    height:100px;
+    width:100px;
+    border:1px solid palevioletred;
+    display:inline-block;
+    margin-right: 2px;
+    border-radius:5px;
+}
+
